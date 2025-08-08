@@ -683,3 +683,10 @@ footer span a:hover{
         line-height: 38px;
     }
 }
+.line.python {
+    background: purple;
+}
+
+.line.ml {
+    background: purple;
+}
